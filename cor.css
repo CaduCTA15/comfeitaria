@@ -27,9 +27,12 @@ nav ul li {
 }
 img
 {
-   height: 100px;
+  width: 100px;
+  height: 300px;
+  object-fit: cover;
   
 }
+
 
 
 
